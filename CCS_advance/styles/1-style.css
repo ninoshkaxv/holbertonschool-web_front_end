@@ -1,4 +1,6 @@
-/* Stylesheet for the index.html file */
-html {
+html{
     scroll-behavior: smooth;
+}
+body{
+    display: flex;
 }
